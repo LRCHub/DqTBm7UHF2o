@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Mindstate",
+  "base_artist": "Computer Magic",
+  "createdAt": "2026-03-27T12:20:40.287101Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Pete Philly & Perquisite",
+      "has_synced": true,
+      "path": "select/01_Mindstate_Pete_Philly_&_Perquisite.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Three 6 Mafia",
+      "has_synced": true,
+      "path": "select/02_Mindstate_Three_6_Mafia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Material Mindstate",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/03_Material_Mindstate_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ghetto Mindstate - Can't Get Away feat. Lyfe Jennings",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/04_Ghetto_Mindstate_-_Can't_Get_Away_feat._Lyfe_Jennings_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ghetto Mindstate (Can't Get Away)",
+      "artist": "Lil’ Flip",
+      "has_synced": false,
+      "path": "select/05_Ghetto_Mindstate_(Can't_Get_Away)_Lil’_Flip.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/06_Mindstate_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Anilyst",
+      "has_synced": true,
+      "path": "select/07_Mindstate_Anilyst.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mindstate [Deluxe Edition]",
+      "artist": "Cunninlynguists",
+      "has_synced": false,
+      "path": "select/08_Mindstate_[Deluxe_Edition]_Cunninlynguists.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Pete Philly & Perquisite feat. Pete Philly & Perquisite",
+      "has_synced": true,
+      "path": "select/09_Mindstate_Pete_Philly_&_Perquisite_feat._Pete_Philly_&_Perquisite.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "CunninLynguists",
+      "has_synced": true,
+      "path": "select/10_Mindstate_CunninLynguists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Black Tiger Sex Machine",
+      "has_synced": true,
+      "path": "select/11_Mindstate_Black_Tiger_Sex_Machine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Triple Six Mafia",
+      "has_synced": false,
+      "path": "select/12_Mindstate_Triple_Six_Mafia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Black Tiger Sex Machine, Hairitage & Hyro the Hero",
+      "has_synced": true,
+      "path": "select/13_Mindstate_Black_Tiger_Sex_Machine,_Hairitage_&_Hyro_the_Hero.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mindstate",
+      "artist": "Black Tiger Sex Machine, Hairitage",
+      "has_synced": true,
+      "path": "select/14_Mindstate_Black_Tiger_Sex_Machine,_Hairitage.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mindstate feat. Hyro the Hero",
+      "artist": "Black Tiger Sex Machine",
+      "has_synced": true,
+      "path": "select/15_Mindstate_feat._Hyro_the_Hero_Black_Tiger_Sex_Machine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mindstate",
+      "artist": "Computer Magic",
+      "has_synced": false,
+      "path": "select/pl_01_Mindstate_Computer_Magic.txt"
+    }
+  ]
+}
